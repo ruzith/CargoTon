@@ -101,15 +101,6 @@ Here are some screenshots of the CargoTon web app:
 
 ---
 
-## **Contact**
-
-For any questions or assistance, feel free to reach out:
-
-- 📧 **Email:** support@cargoton.com
-- 🌐 **Website:** [www.cargoton.com](http://www.cargoton.com)
-
----
-
 ## **License**
 
 This project is provided **as-is** for educational and demonstration purposes.
